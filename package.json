@@ -1,0 +1,10 @@
+{
+  "name": "oceancruises",
+  "version": "1.0.0",
+  "description": "A template for an alleged company named Ocean Cruises. Created with materialize css",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Tsentidis Dionysios",
+  "license": "MIT"
+}
