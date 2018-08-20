@@ -1,0 +1,120 @@
+/*Showcase Section - Slider*/
+
+.section-slider img {
+    opacity: 0.5;
+}
+
+/*--------------------------------------------*/
+
+/*About Section*/
+
+.section-about .card-panel {
+    border-radius: 20px;
+}
+
+.section-about .why-us {
+    padding-top: 10px;
+}
+
+.section-about .why-us p,
+.section-about .about-us p {
+    line-height: 2rem;
+}
+
+/*--------------------------------------------*/
+
+/*Popular Destinations Section*/
+
+.section-popular div {
+    line-height: 2rem;
+}
+
+/*--------------------------------------------*/
+
+/*Search destinations Section*/
+
+.section-search input {
+    padding: 5px !important;
+    border: #f4f4f4 3px solid !important;
+    font-size: 24px;
+    width: 80% !important;
+}
+
+.section-search {
+    background-image: url(../images/Misc/search.jpeg);
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    height: 300px;
+}
+
+.section-search h5 {
+    padding-top: 50px;
+}
+
+/*--------------------------------------------*/
+
+/*Contact Section*/
+
+.section-contact li {
+    list-style-type: none;
+}
+
+.row .input-field input:focus,
+textarea:focus {
+    border-bottom: 1px solid #2196F3 !important;
+    box-shadow: 0 1px 0 0 #2196F3 !important
+}
+
+.section-contact .row .col {
+    padding: 0;
+}
+
+.section-contact .card-panel {
+    height: 450px;
+}
+
+.section-contact .left-panel p,
+.section-contact .left-panel .lipad {
+    padding-top: 50px;
+}
+
+/*--------------------------------------------*/
+
+/*Icons*/
+
+.section-footer .fa-3x,
+.section-contact .material-icons {
+    margin: 5px 10px;
+}
+
+.section-about .material-icons {
+    border: 2px solid #2196F3;
+    padding: 10px;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.section-about .material-icons:hover {
+    background-color: black;
+    border: 2px solid black;
+    padding: 10px;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+/*--------------------------------------------*/
+
+/*Misc*/
+
+hr {
+    width: 70%;
+}
+
+.container h4 {
+    padding-bottom: 20px;
+}
+
+/*--------------------------------------------*/
