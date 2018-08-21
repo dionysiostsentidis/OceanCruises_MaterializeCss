@@ -1,7 +1,7 @@
 {
   "homepage": "https://dionysiostsentidis.github.io/OceanCruises_MaterializeCSS/",
   "scripts": {
-    "deploy": "gh-paged -d src"
+    "deploy": "gh-pages -d src"
   },
   "name": "oceancruises",
   "version": "1.0.0",
