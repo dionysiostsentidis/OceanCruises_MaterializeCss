@@ -1,7 +1,14 @@
 {
+  "homepage": "https://dionysiostsentidis.github.io/OceanCruises_MaterializeCSS/",
+  "scripts": {
+    "deploy": "gh-paged -d src"
+  },
   "name": "oceancruises",
   "version": "1.0.0",
   "description": "A template for an alleged company named Ocean Cruises. Created with materialize css",
   "author": "Tsentidis Dionysios",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
 }
