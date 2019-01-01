@@ -1,11 +1,10 @@
 # Ocean Cruises - Materialize CSS
 A template for an alleged company named Ocean Cruises. Built with materialize css.
 
-![alt text](https://raw.githubusercontent.com/dionweb/OceanCruises_MaterializeCSS/master/src/images/mockup.png?token=AmkViRprIFHXS1YiO_4pOWNSoacgtQv6ks5b5YkzwA%3D%3D)
 
 ## Clone
 ```
-https://github.com/dionweb/OceanCruises_MaterializeCSS.git
+git clone https://github.com/dionweb/OceanCruises_MaterializeCSS.git
 ```
 
 
