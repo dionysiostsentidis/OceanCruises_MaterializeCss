@@ -54,6 +54,10 @@
     padding-top: 50px;
 }
 
+.dropdown-content li > a, .dropdown-content li > span{
+    color: #2196F3 !important;
+}
+
 /*--------------------------------------------*/
 
 /*Contact Section*/
@@ -98,8 +102,6 @@ textarea:focus {
 }
 
 .section-about .material-icons:hover {
-    background-color: black;
-    border: 2px solid black;
     padding: 10px;
     border-bottom-left-radius: 25px;
     border-top-right-radius: 25px;
@@ -111,6 +113,9 @@ textarea:focus {
 
 hr {
     width: 70%;
+    border: 0;
+    min-height: 2px;
+    background-color: #f4f4f4;
 }
 
 .container h4 {
@@ -118,3 +123,16 @@ hr {
 }
 
 /*--------------------------------------------*/
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #c1c1c1 !important;
+    opacity: 1; /* Firefox */
+  }
+  
+  :-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #c1c1c1 !important;
+  }
+  
+  ::-ms-input-placeholder { /* Microsoft Edge */
+    color: #c1c1c1 !important;
+  }
