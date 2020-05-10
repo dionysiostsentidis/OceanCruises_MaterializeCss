@@ -1,5 +1,5 @@
 {
-  "homepage": "https://dionysiostsentidis.github.io/OceanCruises_MaterializeCSS/",
+  "homepage": "https://dionweb.github.io/OceanCruises_MaterializeCSS/",
   "scripts": {
     "deploy": "gh-pages -d src"
   },
