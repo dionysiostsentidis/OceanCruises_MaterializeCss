@@ -9,6 +9,6 @@
   "author": "Tsentidis Dionysios",
   "license": "MIT",
   "dependencies": {
-    "gh-pages": "^1.2.0"
+    "gh-pages": "^2.2.0"
   }
 }
